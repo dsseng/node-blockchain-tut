@@ -1,5 +1,5 @@
 import sha256 from 'sha256'
 
-export default {
+module.exports = {
   sha256: sha256
 };
